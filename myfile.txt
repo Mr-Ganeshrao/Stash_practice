@@ -1,5 +1,3 @@
 Name : Ganesh Chavan
 village: manjarde 
 mob no.: 7769817543
-sate : Maharashtra
-pin : 416312
